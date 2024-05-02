@@ -7,7 +7,7 @@
 
 # Подключение к БД(MySQL)
 
-host = 'localhost';
-mysql_port = '8101';
-mysql_user = 'root';
-mysql_pass = 'root';
+mysql_host = 'localhost'
+mysql_port = '8101'
+mysql_user = 'root'
+mysql_pass = 'root'
